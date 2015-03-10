@@ -2,7 +2,7 @@ from flask import Flask
 
 from . import models
 from .extensions import config, assets
-from .views.api_login import github_blueprint
+from .views.github import github_blueprint
 from .views.myrepos import myrepos
 
 
