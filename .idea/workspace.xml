@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d4cb37f-f378-4e8d-b565-702820b53cd3" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/github_api/views/api_login.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/github_api/__init__.py" afterPath="$PROJECT_DIR$/github_api/__init__.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/github_api/views/myrepos.py" afterPath="$PROJECT_DIR$/github_api/views/myrepos.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="github-api.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,14 +27,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="myrepos.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="myrepos.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/github_api/views/myrepos.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.22790055" vertical-offset="0" max-vertical-offset="724">
-              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding>
                 <element signature="e#0#70#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".envrc" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.envrc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.041436464" vertical-offset="0" max-vertical-offset="724">
+              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -99,6 +106,7 @@
         <option value="$PROJECT_DIR$/github_api/views/api_login.py" />
         <option value="$PROJECT_DIR$/github_api/__init__.py" />
         <option value="$PROJECT_DIR$/github_api/views/myrepos.py" />
+        <option value="$PROJECT_DIR$/.envrc" />
       </list>
     </option>
   </component>
@@ -598,11 +606,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/github_api/views/myrepos.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22790055" vertical-offset="0" max-vertical-offset="724">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
             <element signature="e#0#70#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.envrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.041436464" vertical-offset="0" max-vertical-offset="724">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
